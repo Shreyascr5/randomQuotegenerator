@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding-top: 1rem;
+    text-align: center;
+    background-color: black;
+}
+
+p {
+    color: white;
+    padding: 2rem;
+}
+
+h1 {
+    color: goldenrod;
+    /* padding: 2rem; */
+}
+
+#display {
+    color: white;
+    padding: 3rem;
+    margin: 1 rem;
+    border-radius: 2rem;
+    font-weight: bold;
+}
+
+#auth {
+    color: aliceblue;
+    padding: 3rem;
+    margin: 1rem;
+    border-radius: 2rem;
+    font-weight: bold;
+}
+
+#generate {
+    padding: 1rem;
+    margin: 1rem;
+    color: cadetblue;
+    border-radius: 1rem;
+    border-color: silver;
+}
